@@ -1,0 +1,8 @@
+{
+    "body": "{\"longitude\": -96.794609,\"latitude\": 32.972926 }",
+    "requestContext": {
+        "identity": {
+            "cognitoIdentityId": "USER-SUB-1234"
+        }
+    }
+}
